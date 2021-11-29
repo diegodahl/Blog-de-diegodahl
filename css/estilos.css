@@ -1,6 +1,10 @@
 body 
 {
+<<<<<<< HEAD
     color: deeppink;
+=======
+    color: red;
+>>>>>>> cabecera
     text-align: center;
     font-family: "Arial";
 }
